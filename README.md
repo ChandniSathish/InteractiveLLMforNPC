@@ -115,13 +115,13 @@ bash scripts/download_models.sh
 
 13. Delete all files and folders inside of video_temp and temp folder
     
-## Vscode Installation with Jupyter Notebook Support 👨‍💻📔
+## Vscode Installation with Jupyter Notebook Support 
 
 Download and install Visual Studio Code on your device. Click on the Extensions icon on the left sidebar. It looks like a square icon made up of four squares. In the Extensions pane, search for "Jupyter" using the search bar at the top. Look for the "Jupyter" extension provided by Microsoft in the search results and click on the "Install" button next to it. This extension enables Jupyter Notebook support in Visual Studio Code. Then install the python extension. Open your terminal and navigate to the root directory of the project. This is the main folder that contains the project files. In the terminal, type code . and hit Enter. This command opens the current directory in Visual Studio Code. Alternatively, you can use the file explorer in Visual Studio Code to navigate to the root directory of the project. Once the project is open in Visual Studio Code, you should see the project files displayed on the right-hand side of the editor.
 
 While running the Jupyter Notebooks, make sure to select the kernel as .venv (present in top right corner). If you can't see the option to select .venv then click on file then click on open folder and select the main project folder ( Interactive-LLM-Powered-NPCs ), then the notebook should be able to detect .venv .
 
-## Directions for Use 🛠️🤓
+## Directions for Use 🛠️
 
 1. 📁 Create a folder in the root directory of your project. The folder name should be your game name with spaces replaced by underscores, and avoid using special characters. For example, if your game name is "Assasins Creed Valhalla" the folder name could be "Assasins_Creed_Valhalla" .
 
