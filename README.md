@@ -68,7 +68,7 @@ Follow the instructions here https://www.wikihow.com/Install-FFmpeg-on-Windows
 2. Clone the repository by executing the following command:
 
 ```sh
-git clone https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs.git
+git clone https://github.com/ChandniSathish/InteractiveLLMforNPC.git
 ```
 
 3. Navigate to the cloned repository:
